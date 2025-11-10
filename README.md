@@ -41,7 +41,7 @@ npm run dev
 
 ### Core Features
 
-- **Character Browsing** - View all Star Wars characters with pagination support
+- **Character Browsing** - View all Star Wars characters with pagination, including loading indicators and error handling for failed API requests
 
 - **Character Details Modal** - Click any character card to view comprehensive details including:
   - Height (converted to meters)
